@@ -1,0 +1,212 @@
+{
+  "1": {
+    "id": 1,
+    "make": "Chevrolet",
+    "model": "Chevelle SS",
+    "transmission": "4-speed manual",
+    "vin": "138176A142692",
+    "bodyColor": "Red",
+    "mileage": "28,432",
+    "engineSize": "427ci",
+    "year": 1966,
+    "type": "Hardtop",
+    "interiorColor": "Red",
+    "description": "1966 Chevrolet Chevelle SS – STK 2801. The 1966 Chevelle SS396 captivated onlookers with its striking appearance. The revamped Fisher body ushered in a new era for the mid-size Chevy, establishing it as a performance icon. In this iteration, the SS396 evolved into a distinct model within the Chevelle lineup, showcasing numerous styling upgrades and an unwavering focus on performance. This ‘138’ code Chevelle SS396 underwent an impressive frame-off restoration in 2013, emerging as a visual masterpiece. A professional application of Bolero Red paint revitalized the exterior, complemented by a meticulous restoration of the interior in original red vinyl. Every authentic detail, including the Muncie ‘hypodermic’ shifter, was thoughtfully recreated. The cabin features a complete set of SunPro gauges alongside a column-mounted tachometer, tinted windows, and an aftermarket AM/FM/cassette stereo system. Under the hood, the original 396ci ‘Rat’ powerplant gave way to a robust 427ci big-block. This powerhouse, meticulously rebuilt, boasts an aluminum intake, dual-line Holley carburetor, and a street-savvy cam. Paired with a 4-speed manual transmission, the throaty exhaust note resonates with power. (Trivia: A few years later, Don Yenko Chevrolet in Pittsburgh adopted a similar drivetrain package for their COPO Chevelles.) GM Rally wheels with trim rings and centers embrace sturdy 15” BFG Radial T/A tires. Steering is managed manually, while power disc/drum brakes, a front sway bar, and HD shocks contribute to a balanced driving experience.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "2": {
+    "id": 2,
+    "make": "Ford",
+    "model": "Mustang",
+    "transmission": "5-speed manual",
+    "vin": "1ZVHT82H565256109",
+    "bodyColor": "Blue",
+    "mileage": "32,786",
+    "engineSize": "302ci",
+    "year": 2010,
+    "type": "Convertible",
+    "interiorColor": "Black",
+    "description": "2010 Ford Mustang GT – STK 6543. The 2010 Ford Mustang GT is a modern-day muscle car that pays homage to its heritage while incorporating modern technology and performance. This particular Mustang is finished in a striking blue exterior with a black convertible top, accentuating its aggressive lines and muscular stance. The interior features comfortable black leather seats, modern amenities such as power windows and locks, and a premium audio system. Under the hood lies a potent 302ci V8 engine mated to a smooth-shifting 5-speed manual transmission, delivering exhilarating performance and a thrilling driving experience. Whether cruising down the highway with the top down or carving through twisty roads, the 2010 Ford Mustang GT offers a dynamic and engaging ride.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "3": {
+    "id": 3,
+    "make": "Chevrolet",
+    "model": "Chevelle SS",
+    "transmission": "4-speed manual",
+    "vin": "138176A142692",
+    "bodyColor": "Red",
+    "mileage": "28,432",
+    "engineSize": "427ci",
+    "year": 1966,
+    "type": "Hardtop",
+    "interiorColor": "Red",
+    "description": "1966 Chevrolet Chevelle SS – STK 2801. The 1966 Chevelle SS396 captivated onlookers with its striking appearance. The revamped Fisher body ushered in a new era for the mid-size Chevy, establishing it as a performance icon. In this iteration, the SS396 evolved into a distinct model within the Chevelle lineup, showcasing numerous styling upgrades and an unwavering focus on performance. This ‘138’ code Chevelle SS396 underwent an impressive frame-off restoration in 2013, emerging as a visual masterpiece. A professional application of Bolero Red paint revitalized the exterior, complemented by a meticulous restoration of the interior in original red vinyl. Every authentic detail, including the Muncie ‘hypodermic’ shifter, was thoughtfully recreated. The cabin features a complete set of SunPro gauges alongside a column-mounted tachometer, tinted windows, and an aftermarket AM/FM/cassette stereo system. Under the hood, the original 396ci ‘Rat’ powerplant gave way to a robust 427ci big-block. This powerhouse, meticulously rebuilt, boasts an aluminum intake, dual-line Holley carburetor, and a street-savvy cam. Paired with a 4-speed manual transmission, the throaty exhaust note resonates with power. (Trivia: A few years later, Don Yenko Chevrolet in Pittsburgh adopted a similar drivetrain package for their COPO Chevelles.) GM Rally wheels with trim rings and centers embrace sturdy 15” BFG Radial T/A tires. Steering is managed manually, while power disc/drum brakes, a front sway bar, and HD shocks contribute to a balanced driving experience.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "4": {
+    "id": 4,
+    "make": "Ford",
+    "model": "Mustang",
+    "transmission": "5-speed manual",
+    "vin": "1ZVHT82H565256109",
+    "bodyColor": "Blue",
+    "mileage": "32,786",
+    "engineSize": "302ci",
+    "year": 2010,
+    "type": "Convertible",
+    "interiorColor": "Black",
+    "description": "2010 Ford Mustang GT – STK 6543. The 2010 Ford Mustang GT is a modern-day muscle car that pays homage to its heritage while incorporating modern technology and performance. This particular Mustang is finished in a striking blue exterior with a black convertible top, accentuating its aggressive lines and muscular stance. The interior features comfortable black leather seats, modern amenities such as power windows and locks, and a premium audio system. Under the hood lies a potent 302ci V8 engine mated to a smooth-shifting 5-speed manual transmission, delivering exhilarating performance and a thrilling driving experience. Whether cruising down the highway with the top down or carving through twisty roads, the 2010 Ford Mustang GT offers a dynamic and engaging ride.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "5": {
+    "id": 5,
+    "make": "Chevrolet",
+    "model": "Chevelle SS",
+    "transmission": "4-speed manual",
+    "vin": "138176A142692",
+    "bodyColor": "Red",
+    "mileage": "28,432",
+    "engineSize": "427ci",
+    "year": 1966,
+    "type": "Hardtop",
+    "interiorColor": "Red",
+    "description": "1966 Chevrolet Chevelle SS – STK 2801. The 1966 Chevelle SS396 captivated onlookers with its striking appearance. The revamped Fisher body ushered in a new era for the mid-size Chevy, establishing it as a performance icon. In this iteration, the SS396 evolved into a distinct model within the Chevelle lineup, showcasing numerous styling upgrades and an unwavering focus on performance. This ‘138’ code Chevelle SS396 underwent an impressive frame-off restoration in 2013, emerging as a visual masterpiece. A professional application of Bolero Red paint revitalized the exterior, complemented by a meticulous restoration of the interior in original red vinyl. Every authentic detail, including the Muncie ‘hypodermic’ shifter, was thoughtfully recreated. The cabin features a complete set of SunPro gauges alongside a column-mounted tachometer, tinted windows, and an aftermarket AM/FM/cassette stereo system. Under the hood, the original 396ci ‘Rat’ powerplant gave way to a robust 427ci big-block. This powerhouse, meticulously rebuilt, boasts an aluminum intake, dual-line Holley carburetor, and a street-savvy cam. Paired with a 4-speed manual transmission, the throaty exhaust note resonates with power. (Trivia: A few years later, Don Yenko Chevrolet in Pittsburgh adopted a similar drivetrain package for their COPO Chevelles.) GM Rally wheels with trim rings and centers embrace sturdy 15” BFG Radial T/A tires. Steering is managed manually, while power disc/drum brakes, a front sway bar, and HD shocks contribute to a balanced driving experience.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "6": {
+    "id": 6,
+    "make": "Ford",
+    "model": "Mustang",
+    "transmission": "5-speed manual",
+    "vin": "1ZVHT82H565256109",
+    "bodyColor": "Blue",
+    "mileage": "32,786",
+    "engineSize": "302ci",
+    "year": 2010,
+    "type": "Convertible",
+    "interiorColor": "Black",
+    "description": "2010 Ford Mustang GT – STK 6543. The 2010 Ford Mustang GT is a modern-day muscle car that pays homage to its heritage while incorporating modern technology and performance. This particular Mustang is finished in a striking blue exterior with a black convertible top, accentuating its aggressive lines and muscular stance. The interior features comfortable black leather seats, modern amenities such as power windows and locks, and a premium audio system. Under the hood lies a potent 302ci V8 engine mated to a smooth-shifting 5-speed manual transmission, delivering exhilarating performance and a thrilling driving experience. Whether cruising down the highway with the top down or carving through twisty roads, the 2010 Ford Mustang GT offers a dynamic and engaging ride.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "7": {
+    "id": 7,
+    "make": "Chevrolet",
+    "model": "Chevelle SS",
+    "transmission": "4-speed manual",
+    "vin": "138176A142692",
+    "bodyColor": "Red",
+    "mileage": "28,432",
+    "engineSize": "427ci",
+    "year": 1966,
+    "type": "Hardtop",
+    "interiorColor": "Red",
+    "description": "1966 Chevrolet Chevelle SS – STK 2801. The 1966 Chevelle SS396 captivated onlookers with its striking appearance. The revamped Fisher body ushered in a new era for the mid-size Chevy, establishing it as a performance icon. In this iteration, the SS396 evolved into a distinct model within the Chevelle lineup, showcasing numerous styling upgrades and an unwavering focus on performance. This ‘138’ code Chevelle SS396 underwent an impressive frame-off restoration in 2013, emerging as a visual masterpiece. A professional application of Bolero Red paint revitalized the exterior, complemented by a meticulous restoration of the interior in original red vinyl. Every authentic detail, including the Muncie ‘hypodermic’ shifter, was thoughtfully recreated. The cabin features a complete set of SunPro gauges alongside a column-mounted tachometer, tinted windows, and an aftermarket AM/FM/cassette stereo system. Under the hood, the original 396ci ‘Rat’ powerplant gave way to a robust 427ci big-block. This powerhouse, meticulously rebuilt, boasts an aluminum intake, dual-line Holley carburetor, and a street-savvy cam. Paired with a 4-speed manual transmission, the throaty exhaust note resonates with power. (Trivia: A few years later, Don Yenko Chevrolet in Pittsburgh adopted a similar drivetrain package for their COPO Chevelles.) GM Rally wheels with trim rings and centers embrace sturdy 15” BFG Radial T/A tires. Steering is managed manually, while power disc/drum brakes, a front sway bar, and HD shocks contribute to a balanced driving experience.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "8": {
+    "id": 8,
+    "make": "Ford",
+    "model": "Mustang",
+    "transmission": "5-speed manual",
+    "vin": "1ZVHT82H565256109",
+    "bodyColor": "Blue",
+    "mileage": "32,786",
+    "engineSize": "302ci",
+    "year": 2010,
+    "type": "Convertible",
+    "interiorColor": "Black",
+    "description": "2010 Ford Mustang GT – STK 6543. The 2010 Ford Mustang GT is a modern-day muscle car that pays homage to its heritage while incorporating modern technology and performance. This particular Mustang is finished in a striking blue exterior with a black convertible top, accentuating its aggressive lines and muscular stance. The interior features comfortable black leather seats, modern amenities such as power windows and locks, and a premium audio system. Under the hood lies a potent 302ci V8 engine mated to a smooth-shifting 5-speed manual transmission, delivering exhilarating performance and a thrilling driving experience. Whether cruising down the highway with the top down or carving through twisty roads, the 2010 Ford Mustang GT offers a dynamic and engaging ride.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "9": {
+    "id": 9,
+    "make": "Chevrolet",
+    "model": "Chevelle SS",
+    "transmission": "4-speed manual",
+    "vin": "138176A142692",
+    "bodyColor": "Red",
+    "mileage": "28,432",
+    "engineSize": "427ci",
+    "year": 1966,
+    "type": "Hardtop",
+    "interiorColor": "Red",
+    "description": "1966 Chevrolet Chevelle SS – STK 2801. The 1966 Chevelle SS396 captivated onlookers with its striking appearance. The revamped Fisher body ushered in a new era for the mid-size Chevy, establishing it as a performance icon. In this iteration, the SS396 evolved into a distinct model within the Chevelle lineup, showcasing numerous styling upgrades and an unwavering focus on performance. This ‘138’ code Chevelle SS396 underwent an impressive frame-off restoration in 2013, emerging as a visual masterpiece. A professional application of Bolero Red paint revitalized the exterior, complemented by a meticulous restoration of the interior in original red vinyl. Every authentic detail, including the Muncie ‘hypodermic’ shifter, was thoughtfully recreated. The cabin features a complete set of SunPro gauges alongside a column-mounted tachometer, tinted windows, and an aftermarket AM/FM/cassette stereo system. Under the hood, the original 396ci ‘Rat’ powerplant gave way to a robust 427ci big-block. This powerhouse, meticulously rebuilt, boasts an aluminum intake, dual-line Holley carburetor, and a street-savvy cam. Paired with a 4-speed manual transmission, the throaty exhaust note resonates with power. (Trivia: A few years later, Don Yenko Chevrolet in Pittsburgh adopted a similar drivetrain package for their COPO Chevelles.) GM Rally wheels with trim rings and centers embrace sturdy 15” BFG Radial T/A tires. Steering is managed manually, while power disc/drum brakes, a front sway bar, and HD shocks contribute to a balanced driving experience.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  },
+  "10": {
+    "id": 10,
+    "make": "Ford",
+    "model": "Mustang",
+    "transmission": "5-speed manual",
+    "vin": "1ZVHT82H565256109",
+    "bodyColor": "Blue",
+    "mileage": "32,786",
+    "engineSize": "302ci",
+    "year": 2010,
+    "type": "Convertible",
+    "interiorColor": "Black",
+    "description": "2010 Ford Mustang GT – STK 6543. The 2010 Ford Mustang GT is a modern-day muscle car that pays homage to its heritage while incorporating modern technology and performance. This particular Mustang is finished in a striking blue exterior with a black convertible top, accentuating its aggressive lines and muscular stance. The interior features comfortable black leather seats, modern amenities such as power windows and locks, and a premium audio system. Under the hood lies a potent 302ci V8 engine mated to a smooth-shifting 5-speed manual transmission, delivering exhilarating performance and a thrilling driving experience. Whether cruising down the highway with the top down or carving through twisty roads, the 2010 Ford Mustang GT offers a dynamic and engaging ride.",
+    "mainImage": "https://raw.githubusercontent.com/TiCh0v/photos/main/car2.png",
+    "additionalImages": {
+      "addImage1": "https://raw.githubusercontent.com/TiCh0v/photos/main/car6.jpg",
+      "addImage2": "https://raw.githubusercontent.com/TiCh0v/photos/main/car5.png",
+      "addImage3": "https://raw.githubusercontent.com/TiCh0v/photos/main/car4.png",
+      "addImage4": "https://raw.githubusercontent.com/TiCh0v/photos/main/car3.png"
+    }
+  }
+}
